@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>/home/malanow</title>
+    <link>https://www.malanow.net/index.xml</link>
+    <description>Recent content on /home/malanow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016. Pewne prawa zastrzeżone.</copyright>
+    <lastBuildDate>Mon, 07 Nov 2016 19:46:47 +0100</lastBuildDate>
+    <atom:link href="https://www.malanow.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://www.malanow.net/about/</link>
+      <pubDate>Mon, 07 Nov 2016 19:46:47 +0100</pubDate>
+      
+      <guid>https://www.malanow.net/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nowa platforma</title>
+      <link>https://www.malanow.net/post/nowa-platforma/</link>
+      <pubDate>Mon, 07 Nov 2016 18:47:13 +0100</pubDate>
+      
+      <guid>https://www.malanow.net/post/nowa-platforma/</guid>
+      <description>&lt;p&gt;Stało się, olewa wordpressa i robię wielki krok naprzód, albo wstecz, w stronę statycznych stron www!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>good to great</title>
+      <link>https://www.malanow.net/post/good-to-great/</link>
+      <pubDate>Mon, 07 Nov 2016 18:47:01 +0100</pubDate>
+      
+      <guid>https://www.malanow.net/post/good-to-great/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non urna posuere nibh ultrices sollicitudin in nec nulla. Nunc dignissim, urna ac aliquam ullamcorper, arcu elit blandit erat, ut lobortis lacus nisi et tellus. Maecenas eget gravida mauris. Praesent et justo elit. Duis quis purus eu tellus porttitor laoreet a tempus nibh. Aliquam malesuada sapien sed viverra faucibus. Duis molestie justo ante, sed tincidunt lectus auctor sed. Integer sagittis nisi sem, vel auctor ipsum feugiat a. Fusce rhoncus metus id urna congue sollicitudin. Donec a velit dolor. Ut blandit, risus quis commodo dapibus, nisl nunc euismod arcu, id viverra enim felis sit amet lorem. Proin dapibus vitae enim non ornare. Nullam eget sem semper, congue neque vitae, condimentum orci. Aenean vestibulum eros sed lacus tincidunt, at rhoncus mauris pellentesque. Sed ac augue quis arcu vulputate ullamcorper at ac felis.&lt;/p&gt;
+
+&lt;p&gt;Donec elementum dignissim lorem, sit amet pellentesque ante fermentum semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus lorem, mollis sit amet purus ut, ultricies tristique lectus. Fusce tempus lorem eget nisi accumsan, quis pulvinar lorem hendrerit. Curabitur in pellentesque nibh. Nulla tincidunt tristique nunc, sit amet feugiat elit semper et. Praesent sit amet eleifend purus, et vulputate sem. Fusce eu hendrerit mauris. Nulla blandit, neque id accumsan mollis, enim erat tincidunt odio, non vulputate sem eros in enim. Vestibulum semper diam sit amet risus faucibus porttitor. Sed rhoncus volutpat lectus. Proin feugiat condimentum leo. Integer tincidunt dolor ut sem pharetra, vel sagittis erat congue.&lt;/p&gt;
+
+&lt;p&gt;Ut tincidunt sit amet tellus sed auctor. Integer euismod nibh non nunc posuere, eget lacinia orci dapibus. Aenean ante ex, sagittis ac mi non, pretium dapibus sem. Sed tincidunt interdum diam quis imperdiet. Mauris et lacus sed felis tristique eleifend nec a nibh. Fusce metus quam, facilisis sed ligula et, pharetra rhoncus diam. Pellentesque at volutpat dui. Aliquam erat volutpat. Phasellus hendrerit, magna sit amet placerat lobortis, dolor lectus cursus dui, in mollis lacus quam non diam. Donec sed pellentesque purus. Etiam non pulvinar elit.&lt;/p&gt;
+
+&lt;p&gt;Aliquam ut sem orci. Phasellus condimentum, risus hendrerit euismod faucibus, turpis nulla iaculis purus, mattis semper urna eros ac odio. Nam elit metus, dignissim at scelerisque ornare, varius a lectus. Pellentesque semper nisi eget est volutpat, non maximus dui varius. Curabitur sagittis libero eget purus tempor, id sagittis ligula auctor. Praesent condimentum laoreet orci, vitae sagittis risus vulputate ut. Phasellus elit sapien, rhoncus nec luctus ut, tincidunt non urna. Mauris eu neque blandit, blandit nunc nec, vulputate urna. Curabitur porta quis nisl vel blandit. Quisque eleifend semper nibh vitae efficitur. Donec sed pulvinar sem, a cursus purus. Vestibulum turpis ante, ornare eu ullamcorper vel, eleifend quis neque. Maecenas quis metus purus. Aliquam erat volutpat. Vestibulum id semper felis.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum accumsan condimentum porttitor. Fusce viverra sit amet ligula vitae feugiat. Maecenas ac nisi ut purus scelerisque varius. Fusce id nulla eget leo molestie rutrum. Integer lobortis tristique tristique. Vestibulum iaculis justo vel massa tristique tincidunt. Donec maximus ac libero ut condimentum. In tincidunt dictum elit, at placerat dolor. Nam vel augue at erat volutpat consequat vitae a leo. Aliquam eget neque at risus blandit tincidunt et sed leo. Duis et dolor sed odio ornare sodales.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
